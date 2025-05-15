@@ -7,6 +7,7 @@ Solutions and implementations for the GeeksforGeeks 160 DSA Problems Series chal
 The GeeksforGeeks 160 DSA Series is a curated collection of 160 essential Data Structures and Algorithms problems designed to strengthen coding skills. This challenge encourages participants to solve one problem daily for consistency and skill improvement.
 
 The challenge includes:
+
 - 160 carefully selected DSA problems
 - Organized by difficulty and topic
 - Comprehensive coverage of fundamental DSA concepts
@@ -28,12 +29,15 @@ GFG-160-Series/
 ## How to Use This Repository
 
 ### Prerequisites
+
 - Python 3.x
 - Basic understanding of Data Structures and Algorithms
 - pytest (for running tests)
 
 ### Setup
+
 1. Clone this repository
+
    ```
    git clone https://github.com/yourusername/GFG-160-Series.git
    cd GFG-160-Series
@@ -44,13 +48,10 @@ GFG-160-Series/
    pip install pytest
    ```
 
-### Running Solutions
-To run a specific solution:
-```
-python gfg_001_second_largest.py
-```
+### Solutions
 
 To run tests:
+
 ```
 pytest tests/
 ```
@@ -60,24 +61,25 @@ pytest tests/
 To participate in the official GeeksforGeeks challenge:
 
 1. Register for the GFG 160 course on GeeksforGeeks
-2. Start solving problems between November 15-30
+2. Start solving problems (at least one per day) to keep your streak
 3. Take screenshots of your solved problems
-4. Post on Twitter or LinkedIn using hashtags #gfg160 and #geekstreak2025
+4. Post on X or LinkedIn using hashtags #gfg160 and #geekstreak2025
 5. Tag the official GeeksforGeeks account
-6. Maintain your streak for 80 consecutive days
+6. Maintain your streak for 80 consecutive days for the reward and 160 for a certificate
 
 ### Rewards
+
 - **India residents**: GeeksforGeeks bag after 80 consecutive days
 - **International participants**: Exclusive GfG voucher coupons
 - **Women in Tech**: Free access to Test Series worth INR 4,999 along with the guaranteed bag
 
 ## Progress Tracking
 
-| # | Problem | Difficulty | Status | Date Completed |
-|---|---------|------------|--------|----------------|
-| 1 | Second Largest | Easy | ✅ | 2024-11-15 |
-| 2 | Move All Zeroes to End | Easy | ⬜ | - |
-| ... | ... | ... | ... | ... |
+| #   | Problem                | Difficulty | Status | Date Completed |
+| --- | ---------------------- | ---------- | ------ | -------------- |
+| 1   | Second Largest         | Easy       | ✅     | 2024-11-15     |
+| 2   | Move All Zeroes to End | Easy       | ⬜     | -              |
+| ... | ...                    | ...        | ...    | ...            |
 
 ## License
 
@@ -87,4 +89,3 @@ This repository contains my personal solutions to the GFG 160 DSA problems. The 
 
 - [GeeksforGeeks](https://www.geeksforgeeks.org/) for creating this comprehensive DSA challenge
 - All contributors and participants in the #geekstreak2025 challenge
-
