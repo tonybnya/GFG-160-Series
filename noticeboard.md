@@ -31,7 +31,7 @@ Hey everyone!
 I've taken my daily dose of #DSA from @geeksforgeeks
 with the GFG 160 Series
 
-Problem 001: Second Largest
+Problem 001/160: Second Largest
 
 Let's continue, code and excel together!
 #gfg160
