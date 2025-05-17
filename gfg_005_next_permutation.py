@@ -49,3 +49,34 @@ def next_permutation_1(arr: list[int]) -> list[int]:
 
     # if no next permutation found, return the first one in the list of all permutations
     return perms[0]
+
+
+def next_permutation_2(arr: list[int]) -> list[int]:
+    """
+    Solution 2: Next Permutation + Reverse in-place
+    Time Complexity: O(n)
+    Space Complexity: O(1)
+    """
+    n = len(arr)
+
+    # Step 1: Find the pivot (first element from the end that is smaller than the next)
+    i = n - 2
+    while i >= 0 and arr[i] >= arr[i + 1]:
+        i -= 1
+
+    if i >= 0:
+        # Step 2: Find the rightmost element greater than arr[i]
+        j = n - 1
+        while arr[j] <= arr[i]:
+            j -= 1
+        # Step 3: Swap them
+        arr[i], arr[j] = arr[j], arr[i]
+
+    # Step 4: Reverse the suffix (i+1 to end)
+    left, right = i + 1, n - 1
+    while left < right:
+        arr[left], arr[right] = arr[right], arr[left]
+        left += 1
+        right -= 1
+
+    return arr
