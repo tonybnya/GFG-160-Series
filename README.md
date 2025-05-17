@@ -77,9 +77,9 @@ To participate in the official GeeksforGeeks challenge:
 
 | #   | Problem                | Difficulty | Status | Date Completed |
 | --- | ---------------------- | ---------- | ------ | -------------- |
-| 1   | Second Largest         | Easy       | ✅     | 2024-11-15     |
-| 2   | Move All Zeroes to End | Easy       | ⬜     | -              |
-| ... | ...                    | ...        | ...    | ...            |
+| 1   | Second Largest         | Easy       | ✅     | 2025-05-15     |
+| 2   | Move All Zeroes to End | Easy       | ✅      | 2025-05-16              |
+| 3   | Reverse an Array       |  Easy        | ✅    | 2025-05-17            |
 
 ## License
 
