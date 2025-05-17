@@ -40,3 +40,32 @@ def rotate_array_1(arr: list[int], d: int) -> list[int]:
         d %= n
 
     return arr[d:] + arr[:d]
+
+
+def rotate_array_2(arr: list[int], d: int) -> list[int]:
+    """
+    Solution 2: Use Temporary Array
+    Time Complexity: O(n)
+    Space Complexity: O(n)
+    """
+    n: int = len(arr)
+    if d in (0, n):
+        return arr
+    if d > n:
+        d %= n
+
+    temp: list[int] = [0] * n
+
+    i, j = d, 0
+    while i < n:
+        temp[j] = arr[i]
+        j += 1
+        i += 1
+
+    i = 0
+    while i < d:
+        temp[j] = arr[i]
+        j += 1
+        i += 1
+
+    return temp
