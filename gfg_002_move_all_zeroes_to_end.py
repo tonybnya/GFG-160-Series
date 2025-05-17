@@ -45,7 +45,7 @@ def move_all_zeroes_to_end_1(arr: list[int]) -> list[int]:
 
 def move_all_zeroes_to_end_2(arr: list[int]) -> list[int]:
     """
-    Solution 1: Unidirectional traversal with two pointers
+    Solution 2: Unidirectional traversal with two pointers
     Time Complexity: O(n)
     Space Complexity: O(1)
     """

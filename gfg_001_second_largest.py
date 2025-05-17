@@ -67,7 +67,7 @@ def get_second_largest_2(arr: list[int]) -> int:
 
 def get_second_largest_3(arr: list[int]) -> int:
     """
-    Solution 2: One Pass
+    Solution 3: One Pass
     Time Complexity: O(n)
     Space Complexity: O(1)
     """
