@@ -82,6 +82,7 @@ To participate in the official GeeksforGeeks challenge:
 | 3   | Reverse an Array       | Easy       | ✅     | 2025-05-17     |
 | 4   | Rotate Array           | Medium     | ✅     | 2025-05-17     |
 | 5   | Next Permutation       | Medium     | ✅     | 2025-05-17     |
+| 6   | Majority Element II    | Medium     | ✅     | 2025-05-18     |
 
 ## License
 
