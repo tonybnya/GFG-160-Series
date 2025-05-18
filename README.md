@@ -75,14 +75,15 @@ To participate in the official GeeksforGeeks challenge:
 
 ## Progress Tracking
 
-| #   | Problem                | Difficulty | Status | Date Completed |
-| --- | ---------------------- | ---------- | ------ | -------------- |
-| 1   | Second Largest         | Easy       | ✅     | 2025-05-15     |
-| 2   | Move All Zeroes to End | Easy       | ✅     | 2025-05-16     |
-| 3   | Reverse an Array       | Easy       | ✅     | 2025-05-17     |
-| 4   | Rotate Array           | Medium     | ✅     | 2025-05-17     |
-| 5   | Next Permutation       | Medium     | ✅     | 2025-05-17     |
-| 6   | Majority Element II    | Medium     | ✅     | 2025-05-18     |
+| #   | Problem                                           | Difficulty | Status | Date Completed |
+| --- | ------------------------------------------------- | ---------- | ------ | -------------- |
+| 1   | Second Largest                                    | Easy       | ✅     | 2025-05-15     |
+| 2   | Move All Zeroes to End                            | Easy       | ✅     | 2025-05-16     |
+| 3   | Reverse an Array                                  | Easy       | ✅     | 2025-05-17     |
+| 4   | Rotate Array                                      | Medium     | ✅     | 2025-05-17     |
+| 5   | Next Permutation                                  | Medium     | ✅     | 2025-05-17     |
+| 6   | Majority Element II                               | Medium     | ✅     | 2025-05-18     |
+| 7   | Stock Buy and Sell – Multiple Transaction Allowed | Medium     | ✅     | 2025-05-18     |
 
 ## License
 
