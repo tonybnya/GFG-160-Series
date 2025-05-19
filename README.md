@@ -84,7 +84,8 @@ To participate in the official GeeksforGeeks challenge:
 | 5   | Next Permutation                                  | Medium     | ✅     | 2025-05-17     |
 | 6   | Majority Element II                               | Medium     | ✅     | 2025-05-18     |
 | 7   | Stock Buy and Sell – Multiple Transaction Allowed | Medium     | ✅     | 2025-05-18     |
-| 8   | Stock Buy and Sell – Max one Transaction Allowed | Medium     | ✅     | 2025-05-19     |
+| 8   | Stock Buy and Sell – Max one Transaction Allowed  | Easy       | ✅     | 2025-05-19     |
+| 9   | Minimize the Heights II                           | Medium     | ✅     | 2025-05-19     |
 
 ## License
 
