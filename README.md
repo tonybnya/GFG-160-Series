@@ -87,6 +87,7 @@ To participate in the official GeeksforGeeks challenge:
 | 8   | Stock Buy and Sell – Max one Transaction Allowed  | Easy       | ✅     | 2025-05-19     |
 | 9   | Minimize the Heights II                           | Medium     | ✅     | 2025-05-19     |
 | 10  | Kadane's Algorithm                                | Medium     | ✅     | 2025-05-20     |
+| 11  | Maximum Product Subarray                          | Medium     | ✅     | 2025-05-21     |
 
 ## License
 
